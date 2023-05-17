@@ -116,7 +116,6 @@ USE_TZ = True
 STATIC_URL = 'static/'  # usado durante o desenvolvimento
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')  # usado durante a produção
 
-django_heroku.settings(locals())
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 
