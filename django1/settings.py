@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-r9^mk_@g0!z&#z73)-2qjfgn)0q(@0dpcvjmnd3onm!n7*kxu-
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://git.heroku.com/django1-txl.git']  # www.dominio.com.br
+ALLOWED_HOSTS = ['git.heroku.com/django1-txl.git']  # www.dominio.com.br
 
 # Application definition
 
